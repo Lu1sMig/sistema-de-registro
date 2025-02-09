@@ -4,5 +4,5 @@
 
 paraejecutar el sistema, debes de poner:
 
-'''npm install react'''
+```npm install react```
 
