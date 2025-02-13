@@ -6,3 +6,4 @@ paraejecutar el sistema, debes de poner:
 
 ```npm install react```
 
+probanco pull en sistema de registro
